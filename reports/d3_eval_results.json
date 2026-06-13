@@ -5,7 +5,7 @@
   "citation_coverage": 1.0,
   "gold_source_hit": 0.95,
   "gold_hit_proxy": 0.95,
-  "p95_latency_seconds": 0.7633,
+  "p95_latency_seconds": 0.8285,
   "rows": [
     {
       "query": "What is the main AI-related objective of Efficient Estimation of Word Representations in Vector Space Tomas Mikolov?",
@@ -14,7 +14,7 @@
       "answer_relevance_proxy": 0.88,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.0519,
+      "latency_seconds": 0.0713,
       "top_citations": [
         "Ef cient Estimation of Word Representations in Vector Space Tomas Mikolov Google Inc , Mountain View, CA tmikolov google com Kai Chen Google Inc , Mountain View, CA kaichen google  (1301.3781v3.pdf, p. 1, chunk ffc71d571ed9dfce_0000)",
         "This paper is included in the Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16) November 2 4, 2016 Savannah, GA, USA ISBN 978-1-9319 (osdi16-abadi.pdf, p. 19, chunk 3cdc9a49bce1a6f0_0121)",
@@ -28,7 +28,7 @@
       "answer_relevance_proxy": 0.9273,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4662,
+      "latency_seconds": 0.6278,
       "top_citations": [
         "Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu David Silver Alex Graves Ioannis Antonoglou Daan Wierstra Martin Riedmiller DeepMind Technologies vl (1312.5602v1.pdf, p. 1, chunk d715b7bbe918d717_0000)",
         "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0005)",
@@ -42,7 +42,7 @@
       "answer_relevance_proxy": 0.95,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.5001,
+      "latency_seconds": 0.5754,
       "top_citations": [
         "Published as a conference paper at ICLR 2015 ADAM : A M ETHOD FOR STOCHASTIC OPTIMIZATION Diederik P Kingma University of Amsterdam, OpenAI dpkingma openai com Jimmy Lei Ba Univers (1412.6980v9.pdf, p. 1, chunk e37a5f4e6aaf072a_0000)",
         "Published as a conference paper at ICLR 2015 ADAM : A M ETHOD FOR STOCHASTIC OPTIMIZATION Diederik P Kingma University of Amsterdam, OpenAI dpkingma openai com Jimmy Lei Ba Univers (1412.6980v9.pdf, p. 1, chunk e37a5f4e6aaf072a_0000)",
@@ -56,7 +56,7 @@
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4376,
+      "latency_seconds": 0.4451,
       "top_citations": [
         "Journal of Machine Learning Research 17 (2016) 1-7 Submitted 5 15; Published 4 16 MLlib: Machine Learning in Apache Spark Xiangrui Meng meng databricks com Databricks, 160 Spear St (15-237.pdf, p. 1, chunk 38a344851ad5f523_0000)",
         "Journal of Machine Learning Research 17 (2016) 1-7 Submitted 5 15; Published 4 16 MLlib: Machine Learning in Apache Spark Xiangrui Meng meng databricks com Databricks, 160 Spear St (15-237.pdf, p. 3, chunk 38a344851ad5f523_0008)",
@@ -70,7 +70,7 @@
       "answer_relevance_proxy": 0.82,
       "citation_coverage": 1.0,
       "gold_source_hit": 0,
-      "latency_seconds": 0.5176,
+      "latency_seconds": 0.623,
       "top_citations": [
         "2210.07658v2 (2210.07658v2.pdf, p. 4, chunk f687483423485117_0025)",
         "2210.07658v2 (2210.07658v2.pdf, p. 4, chunk f687483423485117_0024)",
@@ -84,7 +84,7 @@
       "answer_relevance_proxy": 0.9556,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.7704,
+      "latency_seconds": 0.8364,
       "top_citations": [
         "Under review as a conference paper at ICLR 2016 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS Alec Radford Luke Metz indico Research  (1511.06434v2.pdf, p. 1, chunk d341aab29ba13e9c_0000)",
         "Under review as a conference paper at ICLR 2016 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS Alec Radford Luke Metz indico Research  (1511.06434v2.pdf, p. 1, chunk d341aab29ba13e9c_0000)",
@@ -98,7 +98,7 @@
       "answer_relevance_proxy": 0.8364,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.5956,
+      "latency_seconds": 0.6775,
       "top_citations": [
         "Why Should I Trust You Explaining the Predictions of Any Classi er Marco Tulio Ribeiro University of Washington Seattle, WA 98105, USA marcotcr cs uw edu Sameer Singh University of (1602.04938v3.pdf, p. 1, chunk e8bfbe0ed50defc3_0000)",
         "Explainable Arti cial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI Alejandro Barredo Arrietaa, Natalia D az-Rodr guezb, Javier Del S (1910.10045v2.pdf, p. 48, chunk cd0c105a8eccdbab_0281)",
@@ -112,7 +112,7 @@
       "answer_relevance_proxy": 0.8,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.5432,
+      "latency_seconds": 0.6335,
       "top_citations": [
         "Explainable Arti cial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI Alejandro Barredo Arrietaa, Natalia D az-Rodr guezb, Javier Del S (1910.10045v2.pdf, p. 71, chunk cd0c105a8eccdbab_0386)",
         "Communication-Ef cient Learning of Deep Networks from Decentralized Data H Brendan McMahan Eider Moore Daniel Ramage Seth Hampson Blaise Ag uera y Arcas Google, Inc , 651 N 34th St (1602.05629v4.pdf, p. 1, chunk 853f595a7f19718c_0000)",
@@ -126,7 +126,7 @@
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.5272,
+      "latency_seconds": 0.4811,
       "top_citations": [
         "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs Yu A Malkov, D A Yashuni (1603.09320v4.pdf, p. 1, chunk bc202b2ab8b27d06_0000)",
         "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs Yu A Malkov, D A Yashuni (1603.09320v4.pdf, p. 1, chunk bc202b2ab8b27d06_0000)",
@@ -140,7 +140,7 @@
       "answer_relevance_proxy": 0.92,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.6289,
+      "latency_seconds": 0.5182,
       "top_citations": [
         "End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation Holmdel, NJ 07735 Davide Del Testa NVIDIA Corporation Holmdel, NJ 07735 Daniel Dworakowski NVIDIA Corp (1604.07316v1.pdf, p. 1, chunk f9b2a2fce5cb3719_0000)",
         "A Survey of Deep Learning Techniques for Autonomous Driving Sorin Grigorescu Arti cial Intelligence, Elektrobit Automotive Robotics, Vision and Control Lab, Transilvania University (1910.07738v2.pdf, p. 26, chunk de80964edc552bed_0182)",
@@ -154,7 +154,7 @@
       "answer_relevance_proxy": 0.9556,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4323,
+      "latency_seconds": 0.5372,
       "top_citations": [
         "Concrete Problems in AI Safety Dario Amodei Google Brain Chris Olah Google Brain Jacob Steinhardt Stanford University Paul Christiano UC Berkeley John Schulman OpenAI Dan Man e Goo (1606.06565v2.pdf, p. 1, chunk 7bf238fedc09095c_0000)",
         "Concrete Problems in AI Safety Dario Amodei Google Brain Chris Olah Google Brain Jacob Steinhardt Stanford University Paul Christiano UC Berkeley John Schulman OpenAI Dan Man e Goo (1606.06565v2.pdf, p. 2, chunk 7bf238fedc09095c_0007)",
@@ -168,7 +168,7 @@
       "answer_relevance_proxy": 0.9333,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.6208,
+      "latency_seconds": 0.4593,
       "top_citations": [
         "Wide Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa  (1606.07792v1.pdf, p. 1, chunk fa5126ff0016f634_0000)",
         "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 10, chunk 8460cb97194010a4_0073)",
@@ -182,7 +182,7 @@
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.3378,
+      "latency_seconds": 0.4283,
       "top_citations": [
         "Published as a conference paper at ICLR 2017 SEMI -SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N Kipf University of Amsterdam T N Kipf uva nl Max Welling Uni (1609.02907v4.pdf, p. 1, chunk fbb6dba1e79dda0d_0000)",
         "Published as a conference paper at ICLR 2017 SEMI -SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N Kipf University of Amsterdam T N Kipf uva nl Max Welling Uni (1609.02907v4.pdf, p. 1, chunk fbb6dba1e79dda0d_0000)",
@@ -196,7 +196,7 @@
       "answer_relevance_proxy": 0.9,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.3639,
+      "latency_seconds": 0.3931,
       "top_citations": [
         "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 1, chunk 8460cb97194010a4_0000)",
         "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 1, chunk 8460cb97194010a4_0002)",
@@ -210,7 +210,7 @@
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.3254,
+      "latency_seconds": 0.3798,
       "top_citations": [
         "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0000)",
         "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0000)",
@@ -224,7 +224,7 @@
       "answer_relevance_proxy": 0.82,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4384,
+      "latency_seconds": 0.4608,
       "top_citations": [
         "Published as a conference paper at ICLR 2018 GRAPH ATTENTION NETWORKS Petar Veli ckovi c Department of Computer Science and Technology University of Cambridge petar velickovic cst  (1710.10903v3.pdf, p. 1, chunk 7655b457e7f06c51_0000)",
         "Graph neural networks: A review of methods and applications Jie Zhoua,1, Ganqu Cuia,1, Shengding Hua, Zhengyan Zhanga, Cheng Yangb, Zhiyuan Liua, , Lifeng Wangc, Changcheng Lic, Ma (1812.08434v6.pdf, p. 1, chunk b780b129f2798cc9_0000)",
@@ -238,7 +238,7 @@
       "answer_relevance_proxy": 1.0,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4014,
+      "latency_seconds": 0.4627,
       "top_citations": [
         "AI Safety Gridworlds Jan Leike DeepMind Miljan Martic DeepMind Victoria Krakovna DeepMind Pedro A Ortega DeepMind Tom Everitt DeepMind Australian National University Andrew Lefranc (1711.09883v2.pdf, p. 1, chunk 091b8e861ac724c1_0000)",
         "AI Safety Gridworlds Jan Leike DeepMind Miljan Martic DeepMind Victoria Krakovna DeepMind Pedro A Ortega DeepMind Tom Everitt DeepMind Australian National University Andrew Lefranc (1711.09883v2.pdf, p. 1, chunk 091b8e861ac724c1_0000)",
@@ -252,7 +252,7 @@
       "answer_relevance_proxy": 0.9,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4325,
+      "latency_seconds": 0.5663,
       "top_citations": [
         "arXiv:1802 03268v2 cs LG 12 Feb 2018 Ef cient Neural Architecture Search via Parameter Sharing Hieu Pham 1 2 Melody Y Guan 3 Barret Zoph 1 Quoc V Le 1 Jeff Dean 1 (1802.03268v2.pdf, p. 1, chunk 46821cb4857e1624_0000)",
         "Published as a conference paper at ICLR 2019 DARTS: D IFFERENTIABLE ARCHITECTURE SEARCH Hanxiao Liu CMU hanxiaol cs cmu com Karen Simonyan DeepMind simonyan google com Yiming Yang  (1806.09055v2.pdf, p. 11, chunk 8cc274f5df6d3f28_0053)",
@@ -266,7 +266,7 @@
       "answer_relevance_proxy": 0.9273,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.4099,
+      "latency_seconds": 0.4272,
       "top_citations": [
         "Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev Uber Technologies, Inc asergeev uber com Mike Del Balso Uber Technologies, Inc mdb uber com (1802.05799v3.pdf, p. 1, chunk ab3185194bab792b_0000)",
         "Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev Uber Technologies, Inc asergeev uber com Mike Del Balso Uber Technologies, Inc mdb uber com (1802.05799v3.pdf, p. 1, chunk ab3185194bab792b_0003)",
@@ -280,7 +280,7 @@
       "answer_relevance_proxy": 0.92,
       "citation_coverage": 1.0,
       "gold_source_hit": 1,
-      "latency_seconds": 0.3486,
+      "latency_seconds": 0.4356,
       "top_citations": [
         "Missouri University of Science and Technology Missouri University of Science and Technology Scholars Mine Scholars Mine Business and Information Technology Faculty Research Creativ (Artificial Intelligence (AI) Ethics_ Ethics of AI and Ethical AI.pdf, p. 6, chunk dac905c2067c70e4_0031)",
         "Future of Humanity Institute University of Oxford Centre for the Study of Existential Risk University of Cambridge Center for a New American Security Electronic Frontier Foundation (1802.07228v2.pdf, p. 2, chunk 0b1b02b414403245_0002)",
