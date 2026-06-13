@@ -1,0 +1,16 @@
+flowchart LR
+    A[PDF Corpus + question.xlsx] --> B[Ingestion: PDF text extraction]
+    B --> C[Chunking with overlap + provenance]
+    C --> D[(MongoDB: docs, chunks, provenance)]
+    C --> E[Embedding model]
+    E --> F[(Qdrant: dense vectors)]
+    C --> G[BM25 lexical index]
+    D --> H[Neo4j seed]
+    H --> I[(Neo4j: Authors Papers Topics Venues)]
+    J[/FastAPI /search/] --> G
+    J --> F
+    G --> K[Hybrid score fusion]
+    F --> K
+    I --> L[Cypher graph queries]
+    K --> M[Top-k chunks + citations]
+    L --> M

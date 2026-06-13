@@ -1,0 +1,13 @@
+flowchart LR
+    A[User Question] --> B[Safety Check]
+    B --> C[Neo4j Cypher Subgraph Selection]
+    C --> D[Graph Expansion to Paper IDs]
+    D --> E[MongoDB Supporting Chunks]
+    A --> F[Hybrid Retrieval BM25 + Qdrant]
+    E --> G[Blend + Rerank]
+    F --> G
+    G --> H[Source Pinning + Provenance Filter]
+    H --> I[Grounded Extractive Answer]
+    I --> J[Citations with page ranges + chunk IDs]
+    H --> K[D3 Evaluation]
+    K --> L[Faithfulness, Relevance, p95 Latency]

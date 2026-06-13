@@ -1,0 +1,392 @@
+{
+  "vector_only": {
+    "num_queries": 15,
+    "faithfulness_proxy": 0.8748,
+    "answer_relevance_proxy": 0.8174,
+    "citation_coverage": 1.0,
+    "gold_hit_proxy": 0,
+    "p95_latency_seconds": 1.5947,
+    "rows": [
+      {
+        "query": "What is the main AI-related objective of Efficient Estimation of Word Representations in Vector Space Tomas Mikolov?",
+        "faithfulness_proxy": 0.8636,
+        "answer_relevance_proxy": 0.88,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 1.5947
+      },
+      {
+        "query": "What is the main AI-related objective of Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu?",
+        "faithfulness_proxy": 0.9016,
+        "answer_relevance_proxy": 0.9273,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0866
+      },
+      {
+        "query": "What is the main AI-related objective of ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION Diederik P. Kingma* University of?",
+        "faithfulness_proxy": 0.9091,
+        "answer_relevance_proxy": 0.625,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0851
+      },
+      {
+        "query": "What is the main AI-related objective of MLlib: Machine Learning in Apache Spark Xiangrui Meng?",
+        "faithfulness_proxy": 0.8667,
+        "answer_relevance_proxy": 0.6889,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0891
+      },
+      {
+        "query": "What is the main AI-related objective of All electrical manipulation of magnetization dynamics in a ferromagnet by?",
+        "faithfulness_proxy": 0.8485,
+        "answer_relevance_proxy": 0.5,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0993
+      },
+      {
+        "query": "What is the main AI-related objective of UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL?",
+        "faithfulness_proxy": 0.9167,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0848
+      },
+      {
+        "query": "What is the main AI-related objective of \"Why Should I Trust You?\" Explaining the Predictions of Any Classifier Marco Tulio?",
+        "faithfulness_proxy": 0.8841,
+        "answer_relevance_proxy": 0.8364,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0818
+      },
+      {
+        "query": "What is the main AI-related objective of Communication-Efficient Learning of Deep Networks from Decentralized Data H. Brendan?",
+        "faithfulness_proxy": 0.8333,
+        "answer_relevance_proxy": 0.7556,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.1118
+      },
+      {
+        "query": "What is the main AI-related objective of Efficient and robust approximate nearest neighbor search using Hierarchical?",
+        "faithfulness_proxy": 0.8378,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0814
+      },
+      {
+        "query": "What is the main AI-related objective of End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation?",
+        "faithfulness_proxy": 0.8667,
+        "answer_relevance_proxy": 0.92,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.087
+      },
+      {
+        "query": "What is the main AI-related objective of Concrete Problems in AI Safety Dario Amodei Google Brain?",
+        "faithfulness_proxy": 0.9273,
+        "answer_relevance_proxy": 1.0,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0922
+      },
+      {
+        "query": "What is the main AI-related objective of Wide & Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah?",
+        "faithfulness_proxy": 0.8276,
+        "answer_relevance_proxy": 0.5833,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0838
+      },
+      {
+        "query": "What is the main AI-related objective of SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N. Kipf?",
+        "faithfulness_proxy": 0.8542,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0602
+      },
+      {
+        "query": "What is the main AI-related objective of Neural Collaborative Filtering Xiangnan He National University of?",
+        "faithfulness_proxy": 0.9219,
+        "answer_relevance_proxy": 0.9,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0485
+      },
+      {
+        "query": "What is the main AI-related objective of Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT?",
+        "faithfulness_proxy": 0.8627,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.0594
+      }
+    ]
+  },
+  "hybrid_only": {
+    "num_queries": 15,
+    "faithfulness_proxy": 0.8843,
+    "answer_relevance_proxy": 0.8817,
+    "citation_coverage": 1.0,
+    "gold_hit_proxy": 0,
+    "p95_latency_seconds": 1.4383,
+    "rows": [
+      {
+        "query": "What is the main AI-related objective of Efficient Estimation of Word Representations in Vector Space Tomas Mikolov?",
+        "faithfulness_proxy": 0.8636,
+        "answer_relevance_proxy": 0.88,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 1.4383
+      },
+      {
+        "query": "What is the main AI-related objective of Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu?",
+        "faithfulness_proxy": 0.9016,
+        "answer_relevance_proxy": 0.9273,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2088
+      },
+      {
+        "query": "What is the main AI-related objective of ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION Diederik P. Kingma* University of?",
+        "faithfulness_proxy": 0.8696,
+        "answer_relevance_proxy": 0.95,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2149
+      },
+      {
+        "query": "What is the main AI-related objective of MLlib: Machine Learning in Apache Spark Xiangrui Meng?",
+        "faithfulness_proxy": 0.8667,
+        "answer_relevance_proxy": 0.6889,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.185
+      },
+      {
+        "query": "What is the main AI-related objective of All electrical manipulation of magnetization dynamics in a ferromagnet by?",
+        "faithfulness_proxy": 0.9143,
+        "answer_relevance_proxy": 0.7,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2266
+      },
+      {
+        "query": "What is the main AI-related objective of UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL?",
+        "faithfulness_proxy": 0.9306,
+        "answer_relevance_proxy": 0.9556,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2042
+      },
+      {
+        "query": "What is the main AI-related objective of \"Why Should I Trust You?\" Explaining the Predictions of Any Classifier Marco Tulio?",
+        "faithfulness_proxy": 0.8644,
+        "answer_relevance_proxy": 0.8364,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2349
+      },
+      {
+        "query": "What is the main AI-related objective of Communication-Efficient Learning of Deep Networks from Decentralized Data H. Brendan?",
+        "faithfulness_proxy": 0.8108,
+        "answer_relevance_proxy": 0.8,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.1993
+      },
+      {
+        "query": "What is the main AI-related objective of Efficient and robust approximate nearest neighbor search using Hierarchical?",
+        "faithfulness_proxy": 0.8889,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.218
+      },
+      {
+        "query": "What is the main AI-related objective of End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation?",
+        "faithfulness_proxy": 0.8667,
+        "answer_relevance_proxy": 0.92,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2269
+      },
+      {
+        "query": "What is the main AI-related objective of Concrete Problems in AI Safety Dario Amodei Google Brain?",
+        "faithfulness_proxy": 0.9273,
+        "answer_relevance_proxy": 1.0,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2028
+      },
+      {
+        "query": "What is the main AI-related objective of Wide & Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah?",
+        "faithfulness_proxy": 0.8909,
+        "answer_relevance_proxy": 0.9333,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2275
+      },
+      {
+        "query": "What is the main AI-related objective of SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N. Kipf?",
+        "faithfulness_proxy": 0.8696,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.1878
+      },
+      {
+        "query": "What is the main AI-related objective of Neural Collaborative Filtering Xiangnan He National University of?",
+        "faithfulness_proxy": 0.9306,
+        "answer_relevance_proxy": 0.9,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.1858
+      },
+      {
+        "query": "What is the main AI-related objective of Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT?",
+        "faithfulness_proxy": 0.8696,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2211
+      }
+    ]
+  },
+  "graph_guided_hybrid": {
+    "num_queries": 15,
+    "faithfulness_proxy": 0.8845,
+    "answer_relevance_proxy": 0.8985,
+    "citation_coverage": 1.0,
+    "gold_hit_proxy": 0,
+    "p95_latency_seconds": 1.8413,
+    "rows": [
+      {
+        "query": "What is the main AI-related objective of Efficient Estimation of Word Representations in Vector Space Tomas Mikolov?",
+        "faithfulness_proxy": 0.8636,
+        "answer_relevance_proxy": 0.88,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 1.8413
+      },
+      {
+        "query": "What is the main AI-related objective of Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu?",
+        "faithfulness_proxy": 0.875,
+        "answer_relevance_proxy": 0.9273,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3334
+      },
+      {
+        "query": "What is the main AI-related objective of ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION Diederik P. Kingma* University of?",
+        "faithfulness_proxy": 0.9048,
+        "answer_relevance_proxy": 0.95,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3739
+      },
+      {
+        "query": "What is the main AI-related objective of MLlib: Machine Learning in Apache Spark Xiangrui Meng?",
+        "faithfulness_proxy": 0.9221,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.315
+      },
+      {
+        "query": "What is the main AI-related objective of All electrical manipulation of magnetization dynamics in a ferromagnet by?",
+        "faithfulness_proxy": 0.9474,
+        "answer_relevance_proxy": 0.82,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.4241
+      },
+      {
+        "query": "What is the main AI-related objective of UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL?",
+        "faithfulness_proxy": 0.8983,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3276
+      },
+      {
+        "query": "What is the main AI-related objective of \"Why Should I Trust You?\" Explaining the Predictions of Any Classifier Marco Tulio?",
+        "faithfulness_proxy": 0.8654,
+        "answer_relevance_proxy": 0.8364,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.6063
+      },
+      {
+        "query": "What is the main AI-related objective of Communication-Efficient Learning of Deep Networks from Decentralized Data H. Brendan?",
+        "faithfulness_proxy": 0.8108,
+        "answer_relevance_proxy": 0.8,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.4335
+      },
+      {
+        "query": "What is the main AI-related objective of Efficient and robust approximate nearest neighbor search using Hierarchical?",
+        "faithfulness_proxy": 0.8571,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3204
+      },
+      {
+        "query": "What is the main AI-related objective of End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation?",
+        "faithfulness_proxy": 0.8667,
+        "answer_relevance_proxy": 0.92,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3669
+      },
+      {
+        "query": "What is the main AI-related objective of Concrete Problems in AI Safety Dario Amodei Google Brain?",
+        "faithfulness_proxy": 0.9091,
+        "answer_relevance_proxy": 0.9556,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3375
+      },
+      {
+        "query": "What is the main AI-related objective of Wide & Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah?",
+        "faithfulness_proxy": 0.8909,
+        "answer_relevance_proxy": 0.9333,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.339
+      },
+      {
+        "query": "What is the main AI-related objective of SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N. Kipf?",
+        "faithfulness_proxy": 0.8696,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.3075
+      },
+      {
+        "query": "What is the main AI-related objective of Neural Collaborative Filtering Xiangnan He National University of?",
+        "faithfulness_proxy": 0.9176,
+        "answer_relevance_proxy": 0.9,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2923
+      },
+      {
+        "query": "What is the main AI-related objective of Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT?",
+        "faithfulness_proxy": 0.8696,
+        "answer_relevance_proxy": 0.9111,
+        "citation_coverage": 1.0,
+        "gold_hit_proxy": 0,
+        "latency_seconds": 0.2679
+      }
+    ]
+  }
+}
