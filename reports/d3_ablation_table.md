@@ -1,5 +1,9 @@
-| Mode | Faithfulness | Relevance | Citation Coverage | Gold Hit | p95 Latency (s) |
+# D3 Ablation: Vector-only vs Hybrid-only vs Graph-guided Hybrid
+
+| Mode | Faithfulness | Relevance | Citation Coverage | Gold Source Hit | p95 Latency (s) |
 |---|---:|---:|---:|---:|---:|
-| vector_only | 0.8748 | 0.8174 | 1.0 | 0 | 1.5947 |
-| hybrid_only | 0.8843 | 0.8817 | 1.0 | 0 | 1.4383 |
-| graph_guided_hybrid | 0.8845 | 0.8985 | 1.0 | 0 | 1.8413 |
+| vector_only | 0.8748 | 0.8174 | 1.0 | 0.8667 | 0.6409 |
+| hybrid_only | 0.8843 | 0.8817 | 1.0 | 0.9333 | 0.3035 |
+| graph_guided_hybrid | 0.8833 | 0.9015 | 1.0 | 0.9333 | 1.0066 |
+
+The graph-guided hybrid mode is the D3 executor: Cypher subgraph selection, supporting chunk expansion, hybrid blending, reranking, citations, and safety filtering.

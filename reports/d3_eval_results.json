@@ -1,170 +1,291 @@
 {
   "num_queries": 20,
-  "faithfulness_proxy": 0.8869,
-  "answer_relevance_proxy": 0.9023,
+  "faithfulness_proxy": 0.8828,
+  "answer_relevance_proxy": 0.9045,
   "citation_coverage": 1.0,
-  "gold_hit_proxy": 0,
-  "p95_latency_seconds": 2.402,
+  "gold_source_hit": 0.95,
+  "gold_hit_proxy": 0.95,
+  "p95_latency_seconds": 0.7633,
   "rows": [
     {
       "query": "What is the main AI-related objective of Efficient Estimation of Word Representations in Vector Space Tomas Mikolov?",
+      "correct_pdf": "1301.3781v3.pdf",
       "faithfulness_proxy": 0.8636,
       "answer_relevance_proxy": 0.88,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 2.4947
+      "gold_source_hit": 1,
+      "latency_seconds": 0.0519,
+      "top_citations": [
+        "Ef cient Estimation of Word Representations in Vector Space Tomas Mikolov Google Inc , Mountain View, CA tmikolov google com Kai Chen Google Inc , Mountain View, CA kaichen google  (1301.3781v3.pdf, p. 1, chunk ffc71d571ed9dfce_0000)",
+        "This paper is included in the Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16) November 2 4, 2016 Savannah, GA, USA ISBN 978-1-9319 (osdi16-abadi.pdf, p. 19, chunk 3cdc9a49bce1a6f0_0121)",
+        "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1532 1543, October 25-29, 2014, Doha, Qatar c 2014 Association for Computation (D14-1162.pdf, p. 11, chunk 130d91b393f2baee_0060)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu?",
-      "faithfulness_proxy": 0.875,
+      "correct_pdf": "1312.5602v1.pdf",
+      "faithfulness_proxy": 0.9048,
       "answer_relevance_proxy": 0.9273,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4163
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4662,
+      "top_citations": [
+        "Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu David Silver Alex Graves Ioannis Antonoglou Daan Wierstra Martin Riedmiller DeepMind Technologies vl (1312.5602v1.pdf, p. 1, chunk d715b7bbe918d717_0000)",
+        "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0005)",
+        "Playing Atari with Deep Reinforcement Learning Volodymyr Mnih Koray Kavukcuoglu David Silver Alex Graves Ioannis Antonoglou Daan Wierstra Martin Riedmiller DeepMind Technologies vl (1312.5602v1.pdf, p. 4, chunk d715b7bbe918d717_0020)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION Diederik P. Kingma* University of?",
-      "faithfulness_proxy": 0.9048,
+      "correct_pdf": "1412.6980v9.pdf",
+      "faithfulness_proxy": 0.8696,
       "answer_relevance_proxy": 0.95,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4913
+      "gold_source_hit": 1,
+      "latency_seconds": 0.5001,
+      "top_citations": [
+        "Published as a conference paper at ICLR 2015 ADAM : A M ETHOD FOR STOCHASTIC OPTIMIZATION Diederik P Kingma University of Amsterdam, OpenAI dpkingma openai com Jimmy Lei Ba Univers (1412.6980v9.pdf, p. 1, chunk e37a5f4e6aaf072a_0000)",
+        "Published as a conference paper at ICLR 2015 ADAM : A M ETHOD FOR STOCHASTIC OPTIMIZATION Diederik P Kingma University of Amsterdam, OpenAI dpkingma openai com Jimmy Lei Ba Univers (1412.6980v9.pdf, p. 1, chunk e37a5f4e6aaf072a_0000)",
+        "Published as a conference paper at ICLR 2015 ADAM : A M ETHOD FOR STOCHASTIC OPTIMIZATION Diederik P Kingma University of Amsterdam, OpenAI dpkingma openai com Jimmy Lei Ba Univers (1412.6980v9.pdf, p. 1, chunk e37a5f4e6aaf072a_0001)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of MLlib: Machine Learning in Apache Spark Xiangrui Meng?",
+      "correct_pdf": "15-237.pdf",
       "faithfulness_proxy": 0.9221,
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4318
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4376,
+      "top_citations": [
+        "Journal of Machine Learning Research 17 (2016) 1-7 Submitted 5 15; Published 4 16 MLlib: Machine Learning in Apache Spark Xiangrui Meng meng databricks com Databricks, 160 Spear St (15-237.pdf, p. 1, chunk 38a344851ad5f523_0000)",
+        "Journal of Machine Learning Research 17 (2016) 1-7 Submitted 5 15; Published 4 16 MLlib: Machine Learning in Apache Spark Xiangrui Meng meng databricks com Databricks, 160 Spear St (15-237.pdf, p. 3, chunk 38a344851ad5f523_0008)",
+        "Journal of Machine Learning Research 17 (2016) 1-7 Submitted 5 15; Published 4 16 MLlib: Machine Learning in Apache Spark Xiangrui Meng meng databricks com Databricks, 160 Spear St (15-237.pdf, p. 5, chunk 38a344851ad5f523_0018)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of All electrical manipulation of magnetization dynamics in a ferromagnet by?",
-      "faithfulness_proxy": 0.9474,
+      "correct_pdf": "1508.07906v2.pdf",
+      "faithfulness_proxy": 0.9286,
       "answer_relevance_proxy": 0.82,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4576
+      "gold_source_hit": 0,
+      "latency_seconds": 0.5176,
+      "top_citations": [
+        "2210.07658v2 (2210.07658v2.pdf, p. 4, chunk f687483423485117_0025)",
+        "2210.07658v2 (2210.07658v2.pdf, p. 4, chunk f687483423485117_0024)",
+        "Concrete Problems in AI Safety Dario Amodei Google Brain Chris Olah Google Brain Jacob Steinhardt Stanford University Paul Christiano UC Berkeley John Schulman OpenAI Dan Man e Goo (1606.06565v2.pdf, p. 4, chunk 7bf238fedc09095c_0019)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL?",
-      "faithfulness_proxy": 0.8983,
-      "answer_relevance_proxy": 0.9111,
+      "correct_pdf": "1511.06434v2.pdf",
+      "faithfulness_proxy": 0.918,
+      "answer_relevance_proxy": 0.9556,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3673
+      "gold_source_hit": 1,
+      "latency_seconds": 0.7704,
+      "top_citations": [
+        "Under review as a conference paper at ICLR 2016 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS Alec Radford Luke Metz indico Research  (1511.06434v2.pdf, p. 1, chunk d341aab29ba13e9c_0000)",
+        "Under review as a conference paper at ICLR 2016 UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS Alec Radford Luke Metz indico Research  (1511.06434v2.pdf, p. 1, chunk d341aab29ba13e9c_0000)",
+        "Explainable Arti cial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI Alejandro Barredo Arrietaa, Natalia D az-Rodr guezb, Javier Del S (1910.10045v2.pdf, p. 67, chunk cd0c105a8eccdbab_0364)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of \"Why Should I Trust You?\" Explaining the Predictions of Any Classifier Marco Tulio?",
+      "correct_pdf": "1602.04938v3.pdf",
       "faithfulness_proxy": 0.8654,
       "answer_relevance_proxy": 0.8364,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.6262
+      "gold_source_hit": 1,
+      "latency_seconds": 0.5956,
+      "top_citations": [
+        "Why Should I Trust You Explaining the Predictions of Any Classi er Marco Tulio Ribeiro University of Washington Seattle, WA 98105, USA marcotcr cs uw edu Sameer Singh University of (1602.04938v3.pdf, p. 1, chunk e8bfbe0ed50defc3_0000)",
+        "Explainable Arti cial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI Alejandro Barredo Arrietaa, Natalia D az-Rodr guezb, Javier Del S (1910.10045v2.pdf, p. 48, chunk cd0c105a8eccdbab_0281)",
+        "Why Should I Trust You Explaining the Predictions of Any Classi er Marco Tulio Ribeiro University of Washington Seattle, WA 98105, USA marcotcr cs uw edu Sameer Singh University of (1602.04938v3.pdf, p. 3, chunk e8bfbe0ed50defc3_0018)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Communication-Efficient Learning of Deep Networks from Decentralized Data H. Brendan?",
+      "correct_pdf": "1602.05629v4.pdf",
       "faithfulness_proxy": 0.8108,
       "answer_relevance_proxy": 0.8,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4131
+      "gold_source_hit": 1,
+      "latency_seconds": 0.5432,
+      "top_citations": [
+        "Explainable Arti cial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI Alejandro Barredo Arrietaa, Natalia D az-Rodr guezb, Javier Del S (1910.10045v2.pdf, p. 71, chunk cd0c105a8eccdbab_0386)",
+        "Communication-Ef cient Learning of Deep Networks from Decentralized Data H Brendan McMahan Eider Moore Daniel Ramage Seth Hampson Blaise Ag uera y Arcas Google, Inc , 651 N 34th St (1602.05629v4.pdf, p. 1, chunk 853f595a7f19718c_0000)",
+        "Communication-Ef cient Learning of Deep Networks from Decentralized Data H Brendan McMahan Eider Moore Daniel Ramage Seth Hampson Blaise Ag uera y Arcas Google, Inc , 651 N 34th St (1602.05629v4.pdf, p. 2, chunk 853f595a7f19718c_0006)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Efficient and robust approximate nearest neighbor search using Hierarchical?",
+      "correct_pdf": "1603.09320v4.pdf",
       "faithfulness_proxy": 0.8571,
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3972
+      "gold_source_hit": 1,
+      "latency_seconds": 0.5272,
+      "top_citations": [
+        "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs Yu A Malkov, D A Yashuni (1603.09320v4.pdf, p. 1, chunk bc202b2ab8b27d06_0000)",
+        "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs Yu A Malkov, D A Yashuni (1603.09320v4.pdf, p. 1, chunk bc202b2ab8b27d06_0000)",
+        "IEEE TRANSACTIONS ON JOURNAL NAME, MANUSCRIPT ID 1 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs Yu A Malkov, D A Yashuni (1603.09320v4.pdf, p. 12, chunk bc202b2ab8b27d06_0087)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation?",
+      "correct_pdf": "1604.07316v1.pdf",
       "faithfulness_proxy": 0.8667,
       "answer_relevance_proxy": 0.92,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4085
+      "gold_source_hit": 1,
+      "latency_seconds": 0.6289,
+      "top_citations": [
+        "End to End Learning for Self-Driving Cars Mariusz Bojarski NVIDIA Corporation Holmdel, NJ 07735 Davide Del Testa NVIDIA Corporation Holmdel, NJ 07735 Daniel Dworakowski NVIDIA Corp (1604.07316v1.pdf, p. 1, chunk f9b2a2fce5cb3719_0000)",
+        "A Survey of Deep Learning Techniques for Autonomous Driving Sorin Grigorescu Arti cial Intelligence, Elektrobit Automotive Robotics, Vision and Control Lab, Transilvania University (1910.07738v2.pdf, p. 26, chunk de80964edc552bed_0182)",
+        "A Survey of Deep Learning Techniques for Autonomous Driving Sorin Grigorescu Arti cial Intelligence, Elektrobit Automotive Robotics, Vision and Control Lab, Transilvania University (1910.07738v2.pdf, p. 3, chunk de80964edc552bed_0010)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Concrete Problems in AI Safety Dario Amodei Google Brain?",
-      "faithfulness_proxy": 0.9091,
+      "correct_pdf": "1606.06565v2.pdf",
+      "faithfulness_proxy": 0.9074,
       "answer_relevance_proxy": 0.9556,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4035
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4323,
+      "top_citations": [
+        "Concrete Problems in AI Safety Dario Amodei Google Brain Chris Olah Google Brain Jacob Steinhardt Stanford University Paul Christiano UC Berkeley John Schulman OpenAI Dan Man e Goo (1606.06565v2.pdf, p. 1, chunk 7bf238fedc09095c_0000)",
+        "Concrete Problems in AI Safety Dario Amodei Google Brain Chris Olah Google Brain Jacob Steinhardt Stanford University Paul Christiano UC Berkeley John Schulman OpenAI Dan Man e Goo (1606.06565v2.pdf, p. 2, chunk 7bf238fedc09095c_0007)",
+        "Future of Humanity Institute University of Oxford Centre for the Study of Existential Risk University of Cambridge Center for a New American Security Electronic Frontier Foundation (1802.07228v2.pdf, p. 67, chunk 0b1b02b414403245_0229)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Wide & Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah?",
+      "correct_pdf": "1606.07792v1.pdf",
       "faithfulness_proxy": 0.8909,
       "answer_relevance_proxy": 0.9333,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4741
+      "gold_source_hit": 1,
+      "latency_seconds": 0.6208,
+      "top_citations": [
+        "Wide Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa  (1606.07792v1.pdf, p. 1, chunk fa5126ff0016f634_0000)",
+        "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 10, chunk 8460cb97194010a4_0073)",
+        "Wide Deep Learning for Recommender Systems Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa  (1606.07792v1.pdf, p. 1, chunk fa5126ff0016f634_0002)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N. Kipf?",
-      "faithfulness_proxy": 0.8696,
+      "correct_pdf": "1609.02907v4.pdf",
+      "faithfulness_proxy": 0.8667,
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3638
+      "gold_source_hit": 1,
+      "latency_seconds": 0.3378,
+      "top_citations": [
+        "Published as a conference paper at ICLR 2017 SEMI -SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N Kipf University of Amsterdam T N Kipf uva nl Max Welling Uni (1609.02907v4.pdf, p. 1, chunk fbb6dba1e79dda0d_0000)",
+        "Published as a conference paper at ICLR 2017 SEMI -SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS Thomas N Kipf University of Amsterdam T N Kipf uva nl Max Welling Uni (1609.02907v4.pdf, p. 1, chunk fbb6dba1e79dda0d_0000)",
+        "Graph neural networks: A review of methods and applications Jie Zhoua,1, Ganqu Cuia,1, Shengding Hua, Zhengyan Zhanga, Cheng Yangb, Zhiyuan Liua, , Lifeng Wangc, Changcheng Lic, Ma (1812.08434v6.pdf, p. 22, chunk b780b129f2798cc9_0199)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Neural Collaborative Filtering Xiangnan He National University of?",
-      "faithfulness_proxy": 0.9176,
+      "correct_pdf": "1708.05031v2.pdf",
+      "faithfulness_proxy": 0.9079,
       "answer_relevance_proxy": 0.9,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3529
+      "gold_source_hit": 1,
+      "latency_seconds": 0.3639,
+      "top_citations": [
+        "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 1, chunk 8460cb97194010a4_0000)",
+        "Neural Collaborative Filtering Xiangnan He National University of Singapore, Singapore xiangnanhe gmail com Lizi Liao National University of Singapore, Singapore liaolizi llz gmail (1708.05031v2.pdf, p. 1, chunk 8460cb97194010a4_0002)",
+        "computer 42 COVER FEATURE Published by the IEEE Computer Society 0018-9162 09 26 00 2009 IEEE Such systems are particularly useful for entertainment products such as movies, music, (Recommender-Systems-[Netflix].pdf, p. 8, chunk 5293b017a57a80ed_0046)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT?",
+      "correct_pdf": "1709.05067v1.pdf",
       "faithfulness_proxy": 0.8696,
       "answer_relevance_proxy": 0.9111,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3663
+      "gold_source_hit": 1,
+      "latency_seconds": 0.3254,
+      "top_citations": [
+        "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0000)",
+        "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0000)",
+        "Deep Reinforcement Learning for Conversational AI Mahipal Jadeja DA-IICT Gandhinagar, India mahipaljadeja5 gmail com Neelanshi Varia DA-IICT Gandhinagar, India neelanshiV2 gmail co (1709.05067v1.pdf, p. 1, chunk 2b70032f6feda144_0001)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of GRAPH ATTENTION NETWORKS Petar Velickovi c Department of Computer Science and?",
-      "faithfulness_proxy": 0.9528,
+      "correct_pdf": "1710.10903v3.pdf",
+      "faithfulness_proxy": 0.9496,
       "answer_relevance_proxy": 0.82,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4765
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4384,
+      "top_citations": [
+        "Published as a conference paper at ICLR 2018 GRAPH ATTENTION NETWORKS Petar Veli ckovi c Department of Computer Science and Technology University of Cambridge petar velickovic cst  (1710.10903v3.pdf, p. 1, chunk 7655b457e7f06c51_0000)",
+        "Graph neural networks: A review of methods and applications Jie Zhoua,1, Ganqu Cuia,1, Shengding Hua, Zhengyan Zhanga, Cheng Yangb, Zhiyuan Liua, , Lifeng Wangc, Changcheng Lic, Ma (1812.08434v6.pdf, p. 1, chunk b780b129f2798cc9_0000)",
+        "Published as a conference paper at ICLR 2018 GRAPH ATTENTION NETWORKS Petar Veli ckovi c Department of Computer Science and Technology University of Cambridge petar velickovic cst  (1710.10903v3.pdf, p. 9, chunk 7655b457e7f06c51_0048)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of AI Safety Gridworlds Jan Leike DeepMind?",
-      "faithfulness_proxy": 0.9273,
+      "correct_pdf": "1711.09883v2.pdf",
+      "faithfulness_proxy": 0.9444,
       "answer_relevance_proxy": 1.0,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3874
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4014,
+      "top_citations": [
+        "AI Safety Gridworlds Jan Leike DeepMind Miljan Martic DeepMind Victoria Krakovna DeepMind Pedro A Ortega DeepMind Tom Everitt DeepMind Australian National University Andrew Lefranc (1711.09883v2.pdf, p. 1, chunk 091b8e861ac724c1_0000)",
+        "AI Safety Gridworlds Jan Leike DeepMind Miljan Martic DeepMind Victoria Krakovna DeepMind Pedro A Ortega DeepMind Tom Everitt DeepMind Australian National University Andrew Lefranc (1711.09883v2.pdf, p. 1, chunk 091b8e861ac724c1_0000)",
+        "Understanding AI Technology A concise, practical, and readable overview of Artificial Intelligence and Machine Learning technology designed for non-technical managers, officers, an (AD1099286.pdf, p. 20, chunk 40cba156c4f0bf85_0075)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Efficient Neural Architecture Search via Parameter Sharing Hieu Pham * 1 2 Melody Y.?",
-      "faithfulness_proxy": 0.7586,
+      "correct_pdf": "1802.03268v2.pdf",
+      "faithfulness_proxy": 0.6818,
       "answer_relevance_proxy": 0.9,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.4298
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4325,
+      "top_citations": [
+        "arXiv:1802 03268v2 cs LG 12 Feb 2018 Ef cient Neural Architecture Search via Parameter Sharing Hieu Pham 1 2 Melody Y Guan 3 Barret Zoph 1 Quoc V Le 1 Jeff Dean 1 (1802.03268v2.pdf, p. 1, chunk 46821cb4857e1624_0000)",
+        "Published as a conference paper at ICLR 2019 DARTS: D IFFERENTIABLE ARCHITECTURE SEARCH Hanxiao Liu CMU hanxiaol cs cmu com Karen Simonyan DeepMind simonyan google com Yiming Yang  (1806.09055v2.pdf, p. 11, chunk 8cc274f5df6d3f28_0053)",
+        "AutoML: A Survey of the State-of-the-Art Xin He, Kaiyong Zhao, Xiaowen Chu Department of Computer Science, Hong Kong Baptist University (1908.00709v6.pdf, p. 26, chunk b827a52cc3e80257_0182)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev?",
+      "correct_pdf": "1802.05799v3.pdf",
       "faithfulness_proxy": 0.8824,
       "answer_relevance_proxy": 0.9273,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.6417
+      "gold_source_hit": 1,
+      "latency_seconds": 0.4099,
+      "top_citations": [
+        "Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev Uber Technologies, Inc asergeev uber com Mike Del Balso Uber Technologies, Inc mdb uber com (1802.05799v3.pdf, p. 1, chunk ab3185194bab792b_0000)",
+        "Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev Uber Technologies, Inc asergeev uber com Mike Del Balso Uber Technologies, Inc mdb uber com (1802.05799v3.pdf, p. 1, chunk ab3185194bab792b_0003)",
+        "Horovod: fast and easy distributed deep learning in TensorFlow Alexander Sergeev Uber Technologies, Inc asergeev uber com Mike Del Balso Uber Technologies, Inc mdb uber com (1802.05799v3.pdf, p. 7, chunk ab3185194bab792b_0026)"
+      ]
     },
     {
       "query": "What is the main AI-related objective of Future of Humanity Institute?",
+      "correct_pdf": "1802.07228v2.pdf",
       "faithfulness_proxy": 0.9481,
       "answer_relevance_proxy": 0.92,
       "citation_coverage": 1.0,
-      "gold_hit_proxy": 0,
-      "latency_seconds": 0.3415
+      "gold_source_hit": 1,
+      "latency_seconds": 0.3486,
+      "top_citations": [
+        "Missouri University of Science and Technology Missouri University of Science and Technology Scholars Mine Scholars Mine Business and Information Technology Faculty Research Creativ (Artificial Intelligence (AI) Ethics_ Ethics of AI and Ethical AI.pdf, p. 6, chunk dac905c2067c70e4_0031)",
+        "Future of Humanity Institute University of Oxford Centre for the Study of Existential Risk University of Cambridge Center for a New American Security Electronic Frontier Foundation (1802.07228v2.pdf, p. 2, chunk 0b1b02b414403245_0002)",
+        "Future of Humanity Institute University of Oxford Centre for the Study of Existential Risk University of Cambridge Center for a New American Security Electronic Frontier Foundation (1802.07228v2.pdf, p. 2, chunk 0b1b02b414403245_0001)"
+      ]
     }
   ]
 }
